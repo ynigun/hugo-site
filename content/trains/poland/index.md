@@ -4,6 +4,8 @@ tags:
   - פולין
 summary: " "
 abstract: " "
+date: 2023-06-05
+
 ---
 
 

@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/trains/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/%D7%94%D7%95%D7%A0%D7%92%D7%A8%D7%99%D7%94/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/trains/hungary/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/trains/poland/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/%D7%A4%D7%95%D7%9C%D7%99%D7%9F/</loc>
+    <lastmod>2023-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,24 +34,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication_types/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tags/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/trains/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/%D7%94%D7%95%D7%A0%D7%92%D7%A8%D7%99%D7%94/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/trains/hungary/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/trains/poland/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/%D7%A4%D7%95%D7%9C%D7%99%D7%9F/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
