@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trains | Academic</title>
+    <link>https://example.com/trains/</link>
+      <atom:link href="https://example.com/trains/index.xml" rel="self" type="application/rss+xml" />
+    <description>Trains</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>he</language>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Trains</title>
+      <link>https://example.com/trains/</link>
+    </image>
+    
+    <item>
+      <title>כל הרכבות של הונגריה</title>
+      <link>https://example.com/trains/hungary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/trains/hungary/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;קו&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;מוצא&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;יעד&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;שעת יציאה&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;שעת הגעה&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;מסלול&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;שונות&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;רכבת מקייב לבופשט ⬇️&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;91&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;קייב פאס&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14:25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;קייב וינה&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;קניית הכרטיס באתר האוסטרי ולא בהונגרי&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;רכבות ממוקאצ&amp;rsquo;בו לבודפשט ⬇️&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;145&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו וינה&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;קניית הכרטיס באתר האסטרי ולא בהונגרי&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;33&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;31&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקצ&amp;rsquo;בו בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;רכבות מצ&amp;rsquo;ופ לבודפשט ⬇️&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;33&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;31&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18:15&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוקאצ&amp;rsquo;בו בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;רכבות מצ&amp;rsquo;ופ לזהוני ⬇️&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6281&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;05:29&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;04:47&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6283&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:29&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;07:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6285&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;09:43&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6287&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16:12&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;15:30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6289&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20:25&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;19:43&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6291&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22:29&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21:47&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;רכבות מזהוני לבודפשט  ⬇️&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;140&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;04:05&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;?&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;619&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;05:35&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;09:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;617&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;33&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ממוקאצ&amp;rsquo;בו לבודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;31&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;זהוני&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;בדפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;22:37&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;ממוקאצ&amp;rsquo;בו לבודפשט&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;אפשרות-ב&#34;&gt;אפשרות ב&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;קו&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;שם&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;בודפשט&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;זהוני&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;צ&amp;rsquo;ופ&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;מונקטש&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;שונות&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;145&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;קייב -&amp;gt; וינה&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;קניית הכרטיס באתר האסטרי ולא בהונגרי&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;מוצא -&amp;gt; יעד&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;00:24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;08:40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10:10&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;תרשים-סוג-א&#34;&gt;תרשים סוג א&lt;/h3&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;
+  - בודפשט
+     - זוהני
+        - צופ
+        - מונקטש&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;תרשים-סוג-2&#34;&gt;תרשים סוג 2&lt;/h3&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph LR
+A[בודפשט] --&gt; B(זוהני)
+B --&gt;|מעבר גבול| C[צופ]
+C --&gt; E[מונקטש]
+
+C --&gt; F[קייב]
+
+E --&gt; F
+
+C --&gt; G[ויניצה]
+
+E --&gt; G
+
+G --&gt; F
+&lt;/div&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    שימו לב הודעה חשובה
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;ככה  נראה  הודעה נשתר (ספווילר)&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+  &lt;summary&gt;לצץ כאן להרחבה&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+
+Note right of צופ: מעבר גבול
+בודפשט--&gt;&gt;זהוני: Great!
+זהוני--&gt;&gt;צופ: How about you?
+זהוני--&gt;&gt;מונקאטש: Jolly good!
+צופ--&gt;&gt;קייב: Hello John, how are you?
+מונקאטש--&gt;&gt;קייב: Hello John, how are you?
+בודפשט--&gt;&gt;קייב: Hello John, how are you?
+&lt;/div&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>כל הרכבות של פולין</title>
+      <link>https://example.com/trains/poland/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/trains/poland/</guid>
+      <description>&lt;h3 id=&#34;mindmaps&#34;&gt;Mindmaps&lt;/h3&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Hugo Modules
+  - wowchemy
+  - wowchemy-plugins-netlify
+  - wowchemy-plugins-netlify-cms
+  - wowchemy-plugins-reveal&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A more advanced mindmap with formatting, code blocks, and math:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 500px;&#34;&gt;
+
+&lt;pre&gt;- Mindmaps
+  - Links
+    - [Wowchemy Docs](https://wowchemy.com/docs/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/wowchemy/wowchemy-hugo-themes)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+&lt;p&gt;Wowchemy supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD
+A[Hard] --&amp;gt;|Text| B(Round)
+B --&amp;gt; C{Decision}
+C --&amp;gt;|One| D[Result 1]
+C --&amp;gt;|Two| E[Result 2]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD
+A[Hard] --&gt;|Text| B(Round)
+B --&gt; C{Decision}
+C --&gt;|One| D[Result 1]
+C --&gt;|Two| E[Result 2]
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&amp;gt;&amp;gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&amp;gt;&amp;gt;Alice: Great!
+John-&amp;gt;&amp;gt;Bob: How about you?
+Bob--&amp;gt;&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
+Alice-&gt;&gt;John: Hello John, how are you?
+loop Healthcheck
+    John-&gt;&gt;John: Fight against hypochondria
+end
+Note right of John: Rational thoughts!
+John--&gt;&gt;Alice: Great!
+John-&gt;&gt;Bob: How about you?
+Bob--&gt;&gt;John: Jolly good!
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;gantt
+section Section
+Completed :done,    des1, 2014-01-06,2014-01-08
+Active        :active,  des2, 2014-01-07, 3d
+Parallel 1   :         des3, after des1, 1d
+Parallel 2   :         des4, after des1, 1d
+Parallel 3   :         des5, after des3, 1d
+Parallel 4   :         des6, after des4, 1d
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;class diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+classDiagram
+Class01 &amp;lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&amp;gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&amp;gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &amp;lt;--&amp;gt; C2: Cool label
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;classDiagram
+Class01 &lt;|-- AveryLongClass : Cool
+Class03 *-- Class04
+Class05 o-- Class06
+Class07 .. Class08
+Class09 --&gt; C2 : Where am i?
+Class09 --* C3
+Class09 --|&gt; Class07
+Class07 : equals()
+Class07 : Object[] elementData
+Class01 : size()
+Class01 : int chimp
+Class01 : int gorilla
+Class08 &lt;--&gt; C2: Cool label
+&lt;/div&gt;
+&lt;p&gt;An example &lt;strong&gt;state diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+stateDiagram
+[*] --&amp;gt; Still
+Still --&amp;gt; [*]
+Still --&amp;gt; Moving
+Moving --&amp;gt; Still
+Moving --&amp;gt; Crash
+Crash --&amp;gt; [*]
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+&lt;/div&gt;
+&lt;h3 id=&#34;callouts&#34;&gt;Callouts&lt;/h3&gt;
+&lt;p&gt;Academic supports a &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/#callouts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode for callouts&lt;/a&gt;, also referred to as &lt;em&gt;asides&lt;/em&gt;, &lt;em&gt;hints&lt;/em&gt;, or &lt;em&gt;alerts&lt;/em&gt;. By wrapping a paragraph in &lt;code&gt;{{% callout note %}} ... {{% /callout %}}&lt;/code&gt;, it will render as an aside.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% callout note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% /callout %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Click to view the spoiler&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
+  &lt;summary&gt;Click to view the spoiler&lt;/summary&gt;
+  &lt;p&gt;You found me!&lt;/p&gt;
+&lt;/details&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
