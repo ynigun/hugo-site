@@ -6,7 +6,8 @@ tags:
 summary: " "
 abstract: " "
 ---
-
+### עד עכשיו נרשמו
+{{< gdocs src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRDB6ijZCNjy7Nr8VmBWW6TEtc58Arcx_6VHGLsSgkwmcTZJKTwfyrcBd9ao75qIwdndKbc_gUnME5v/pubhtml?gid=1387295423&amp;single=true&amp;widget=true&amp;headers=false" >}}
 
 | קו | מוצא | יעד | שעת יציאה | שעת הגעה | מסלול | שונות |
 | :---  | :---:  | :---:  | :---:  | :---: | :---:  | ---:  |
@@ -81,12 +82,15 @@ G --> F
 {{% callout note %}}
 שימו לב הודעה חשובה{{% /callout %}}
 
+{{% callout warning %}}
+שימו לב אזהרה
+{{% /callout %}}
 ### Spoilers
 
-ככה  נראה  הודעה נשתר (ספווילר)
+ככה  נראה  הודעה נסתרת (ספווילר)
 
 
-{{< spoiler text="לצץ כאן להרחבה" >}} You found me! {{< /spoiler >}}
+{{< spoiler text="לחצץ כאן להרחבה" >}} You found me! {{< /spoiler >}}
 
 
 ```mermaid
@@ -131,3 +135,4 @@ Moving --> Still
 Moving --> Crash
 Crash --> [*]
 ```
+

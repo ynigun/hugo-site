@@ -17,7 +17,13 @@
       <link>/trains/hungary/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/trains/hungary/</guid>
-      <description>&lt;table&gt;
+      <description>&lt;h3 id=&#34;עד-עכשיו-נרשמו&#34;&gt;עד עכשיו נרשמו&lt;/h3&gt;
+
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;https://docs.google.com/spreadsheets/d/e/2PACX-1vRDB6ijZCNjy7Nr8VmBWW6TEtc58Arcx_6VHGLsSgkwmcTZJKTwfyrcBd9ao75qIwdndKbc_gUnME5v/pubhtml?gid=1387295423&amp;amp;amp;single=true&amp;amp;amp;widget=true&amp;amp;amp;headers=false&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:left&#34;&gt;קו&lt;/th&gt;
@@ -359,10 +365,15 @@ G --&gt; F
     שימו לב הודעה חשובה
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    שימו לב אזהרה
+  &lt;/div&gt;
+&lt;/div&gt;
 &lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
-&lt;p&gt;ככה  נראה  הודעה נשתר (ספווילר)&lt;/p&gt;
-&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-1&#34;&gt;
-  &lt;summary&gt;לצץ כאן להרחבה&lt;/summary&gt;
+&lt;p&gt;ככה  נראה  הודעה נסתרת (ספווילר)&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-3&#34;&gt;
+  &lt;summary&gt;לחצץ כאן להרחבה&lt;/summary&gt;
   &lt;p&gt;You found me!&lt;/p&gt;
 &lt;/details&gt;
 &lt;div class=&#34;mermaid&#34;&gt;sequenceDiagram
