@@ -8,20 +8,13 @@ sections:
   - block: hero
     content:
       title: ברוכים הבאים
-      image:
-        filename: hero-academic.png
       text: |-
-        זה אתר מבארים לכם את הדרך כאן תבינו מה רוצים ממכם
-    design:
-      background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
-
+        זה אתר "מבארים לכם את הדרך" כאן תבינו מה רוצים ממכם
+ 
   - block: portfolio
     id: posts
     content:
-      title: תוכן עניינים של האתר 1
+      title: תוכן עניינים של האתר דוגמה 1
       subtitle: 'כותרת משנה'
       text: 'טקסט דוגמה'
       # Choose how many pages you would like to display (0 = all pages)
@@ -52,7 +45,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: תוכן עניינים של האתר 2
+      title: תוכן עניינים של האתר דוגמה 2
       subtitle: 'כותרת משנה'
       text: 'טקסט דוגמה'
       filters:
@@ -81,7 +74,7 @@ sections:
   - block: portfolio
     id: featured
     content:
-      title: תוכן עניינים של האתר 3
+      title: תוכן עניינים של האתר דוגמה 3
       subtitle: 'כותרת משנה'
       text: 'טקסט דוגמה'
       filters:
