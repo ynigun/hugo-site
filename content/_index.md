@@ -11,7 +11,7 @@ sections:
       image:
         filename: hero-academic.png
       text: |-
-        זה אתר אור בהירות הדרך כאן תבינו מה רוצים ממכם
+        זה אתר מבארים לכם את הדרך כאן תבינו מה רוצים ממכם
     design:
       background:
         gradient_end: '#1976d2'
